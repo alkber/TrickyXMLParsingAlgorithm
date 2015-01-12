@@ -21,3 +21,6 @@ The file will have values like
 * three
 * four
 * eight
+
+ 
+4) if place contains more than one name node at any point, get the first name node of that place, instead of last ,  get first
